@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mistergroot/cnat_dcyl_ssid_genomes/blob/main/banner.png?raw=true)
 
-Here, we make available the code and genomic resources described in Locatelli and Baums 2024. These files describe the genomic resources for _Colpophyllia natans_, _Dendrogyra cylindrus_, and _Siderastrea siderea_. All tissue samples were collected in Curaçao in August of 2022 at Water Factory Reef (_Colpophyllia natans_) and Sea Aquarium Reef (_Dendrogyra cylindrus_ and _Siderastrea siderea_).
+Here, we make available the code and genomic resources described in Locatelli and Baums 2024. These files describe the genomic resources for _Colpophyllia natans_, _Dendrogyra cylindrus_, and _Siderastrea siderea_. All tissue samples were collected in Curaçao in August of 2022 at Water Factory Reef (_Colpophyllia natans_) and Sea Aquarium Reef (_Dendrogyra cylindrus_ and _Siderastrea siderea_). Assemblies were generated using PacBio HiFi data generated on a Sequel IIe sequencer and assembled using hifiasm_meta.
 
 In `jupyter_notebooks/`, we provide code for genome assembly, gene prediction, and functional annotation in Funannotate. Further, we provide code for figure generation, orthogroup analyses, and phylogenetically significant gene family expansion analyses (CAFE5).
 
