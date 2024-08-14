@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/816465523.svg)](https://zenodo.org/doi/10.5281/zenodo.12021086)
+[![DOI](https://zenodo.org/badge/833782845.svg)](https://zenodo.org/doi/10.5281/zenodo.13323697)
 
 # Genome assemblies and annotations of _Colpophyllia natans_, _Dendrogyra cylindrus_, and _Siderastrea siderea_
 
