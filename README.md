@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mistergroot/cnat_dcyl_ssid_genomes/blob/main/banner.png?raw=true)
 
-Here, we make available the code and genomic resources described in Locatelli et al., 2024. These files describe the genomic resources for _Colpophyllia natans_, _Dendrogyra cylindrus_, and _Siderastrea siderea_. All tissue samples were collected in Curaçao.
+Here, we make available the code and genomic resources described in Locatelli and Baums 2024. These files describe the genomic resources for _Colpophyllia natans_, _Dendrogyra cylindrus_, and _Siderastrea siderea_. All tissue samples were collected in Curaçao.
 
 In `jupyter_notebooks/`, we provide code for genome assembly, gene prediction, and functional annotation in Funannotate. Further, we provide code for some figure generation, orthogroup analyses, and phylogenetically significant gene family expansion analyses (CAFE5).
 
