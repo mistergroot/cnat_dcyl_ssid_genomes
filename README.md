@@ -1,6 +1,6 @@
 # Genome assemblies and annotations of _Colpophyllia natans_, _Dendrogyra cylindrus_, and _Siderastrea siderea_
 
-![alt text](https://github.com/mistergroot/apal_acer_genomes/blob/main/Apalm_Acer_photo.jpg?raw=true)
+![alt text](https://github.com/mistergroot/cnat_dcyl_ssid_genomes/blob/main/banner.png?raw=true)
 
 Here, we make available the code and genomic resources described in [Locatelli et al., 2023](https://doi.org/10.1101/2023.12.22.573044). These files describe the genomic resources for Florida _Acropora palmata_ sampled at Horseshoe Reef (genet HS1, STAGdb ID HG0004) and _Acropora cervicornis_ sampled from Grassy Key (genet M5, STAGdb ID HG0005). All tissue samples were generously provided by the Coral Restoration Foundation™ (CRF).
 
